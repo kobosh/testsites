@@ -12,6 +12,7 @@ namespace testinggithub
         {
             //some
             //more
+            //third
         }
     }
 }
